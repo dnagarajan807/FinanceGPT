@@ -1,0 +1,7 @@
+Year,Quarter,BusinessUnit,Revenue,OPEX,Profit
+2023,1,Consumer,120,80,40
+2023,2,Consumer,150,90,60
+2023,3,Enterprise,200,120,80
+2023,4,Enterprise,240,150,90
+2024,1,Consumer,160,100,60
+2024,2,Enterprise,260,160,100
