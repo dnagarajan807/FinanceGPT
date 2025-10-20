@@ -1,6 +1,6 @@
 import os
-from langchain.vectorstores import FAISS
-from langchain.embeddings import OpenAIEmbeddings
+from langchain_community.vectorstores import FAISS
+from langchain_openai.embeddings import OpenAIEmbeddings
 from app.config import Config
 
 def create_or_load_vector_store(docs):

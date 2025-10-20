@@ -1,7 +1,12 @@
 fastapi
 uvicorn
-langchain
+langchain-openai
+langchain-text-splitters
 openai
 faiss-cpu
 pandas
 python-dotenv
+langchain 
+langchain-core 
+langchain-community
+
